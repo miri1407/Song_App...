@@ -13,7 +13,10 @@ Features
 
 Screenshots
 Main Screen
-![Screenshot 2025-04-03 180955](https://github.com/user-attachments/assets/cc77aab6-b676-48e0-841e-52079bb808ca)
+![Screenshot 2025-06-19 100958](https://github.com/user-attachments/assets/4535de73-59e5-486c-b7bc-a59208219aeb)
+
+![Screenshot 2025-06-19 101144](https://github.com/user-attachments/assets/9fc64451-8e54-454b-9ffd-68b6ff57de2e)
+
 
 
 Source code
